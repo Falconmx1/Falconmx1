@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analista de ciberseguridad, bugzilla, desarrollador en google dev, github y gitlab.
+Analista de ciberseguridad, redes, soporte, bugzilla, desarrollador en google dev, github y gitlab.
 
 
 ## 🌐 Socials:
